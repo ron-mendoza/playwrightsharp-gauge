@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GISD.Automation.Framework.C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleLauncher", "ConsoleLauncher\ConsoleLauncher.csproj", "{28F10721-8A96-45B7-8F1F-2BB6AEC02956}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GISD.Automation.Framework.Gauge", "GISD.Automation.Framework.Gauge\GISD.Automation.Framework.Gauge.csproj", "{BEB68C82-CC44-42CF-B434-0614CD2DEE37}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{28F10721-8A96-45B7-8F1F-2BB6AEC02956}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28F10721-8A96-45B7-8F1F-2BB6AEC02956}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28F10721-8A96-45B7-8F1F-2BB6AEC02956}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEB68C82-CC44-42CF-B434-0614CD2DEE37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEB68C82-CC44-42CF-B434-0614CD2DEE37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEB68C82-CC44-42CF-B434-0614CD2DEE37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEB68C82-CC44-42CF-B434-0614CD2DEE37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\secuser\\Documents\\src\\GISD.Test.Automation.Framework\\GISD.Automation.Framework.Core\\GISD.Automation.Framework.Core.csproj": {}
+    "c:\\Users\\secuser\\Documents\\src\\GISD.Test.Automation.Framework\\GISD.Automation.Framework.Core\\GISD.Automation.Framework.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\secuser\\Documents\\src\\GISD.Test.Automation.Framework\\GISD.Automation.Framework.Core\\GISD.Automation.Framework.Core.csproj": {
+    "c:\\Users\\secuser\\Documents\\src\\GISD.Test.Automation.Framework\\GISD.Automation.Framework.Core\\GISD.Automation.Framework.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\secuser\\Documents\\src\\GISD.Test.Automation.Framework\\GISD.Automation.Framework.Core\\GISD.Automation.Framework.Core.csproj",
+        "projectUniqueName": "c:\\Users\\secuser\\Documents\\src\\GISD.Test.Automation.Framework\\GISD.Automation.Framework.Core\\GISD.Automation.Framework.Core.csproj",
         "projectName": "GISD.Automation.Framework.Core",
-        "projectPath": "C:\\Users\\secuser\\Documents\\src\\GISD.Test.Automation.Framework\\GISD.Automation.Framework.Core\\GISD.Automation.Framework.Core.csproj",
+        "projectPath": "c:\\Users\\secuser\\Documents\\src\\GISD.Test.Automation.Framework\\GISD.Automation.Framework.Core\\GISD.Automation.Framework.Core.csproj",
         "packagesPath": "C:\\Users\\secuser\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\secuser\\Documents\\src\\GISD.Test.Automation.Framework\\GISD.Automation.Framework.Core\\obj\\",
+        "outputPath": "c:\\Users\\secuser\\Documents\\src\\GISD.Test.Automation.Framework\\GISD.Automation.Framework.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -21,15 +21,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.0": {
-            "targetAlias": "netcoreapp3.0",
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,8 +40,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.0": {
-          "targetAlias": "netcoreapp3.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "PlaywrightSharp": {
               "target": "Package",
@@ -58,26 +58,17 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.0.1, 3.0.1]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.0.0, 3.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[3.0.0, 3.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
         }
       }
     }

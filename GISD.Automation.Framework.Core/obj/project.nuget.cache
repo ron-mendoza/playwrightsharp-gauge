@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ErvTqYWTVI0adNGDf+c+xvXD2Am2LtXhkBD0hmOfWSm9rUr/BbJtpP0a6x3cq6bNCeRmtAoU4nG2tIHPu+s+0Q==",
+  "dgSpecHash": "dGno6/CVYwrmSnZW5EZtHMrS5iwm1FFAC6/SfkFWlAN1V9DyEu2xR6NwO8UZIACsrVfW1OpQ7LIAW5aZ4BibWg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\secuser\\Documents\\src\\GISD.Test.Automation.Framework\\GISD.Automation.Framework.Core\\GISD.Automation.Framework.Core.csproj",
+  "projectFilePath": "c:\\Users\\secuser\\Documents\\src\\GISD.Test.Automation.Framework\\GISD.Automation.Framework.Core\\GISD.Automation.Framework.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\secuser\\.nuget\\packages\\esprima\\1.0.1270\\esprima.1.0.1270.nupkg.sha512",
     "C:\\Users\\secuser\\.nuget\\packages\\macross.json.extensions\\1.5.0\\macross.json.extensions.1.5.0.nupkg.sha512",
@@ -20,14 +20,7 @@
     "C:\\Users\\secuser\\.nuget\\packages\\microsoft.sourcelink.common\\1.0.0\\microsoft.sourcelink.common.1.0.0.nupkg.sha512",
     "C:\\Users\\secuser\\.nuget\\packages\\microsoft.sourcelink.github\\1.0.0\\microsoft.sourcelink.github.1.0.0.nupkg.sha512",
     "C:\\Users\\secuser\\.nuget\\packages\\playwrightsharp\\0.180.0\\playwrightsharp.0.180.0.nupkg.sha512",
-    "C:\\Users\\secuser\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
-    "C:\\Users\\secuser\\.nuget\\packages\\system.memory\\4.5.2\\system.memory.4.5.2.nupkg.sha512",
-    "C:\\Users\\secuser\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512",
-    "C:\\Users\\secuser\\.nuget\\packages\\system.text.encodings.web\\4.7.1\\system.text.encodings.web.4.7.1.nupkg.sha512",
-    "C:\\Users\\secuser\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
-    "C:\\Users\\secuser\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
-    "C:\\Users\\secuser\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
-    "C:\\Users\\secuser\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+    "C:\\Users\\secuser\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
   ],
   "logs": []
 }
