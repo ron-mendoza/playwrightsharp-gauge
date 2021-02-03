@@ -1,7 +1,6 @@
 C:\Users\secuser\Documents\src\GISD.Test.Automation.Framework\GISD.Automation.Framework.Core\bin\Debug\netcoreapp3.0\GISD.Automation.Framework.Core.deps.json
 C:\Users\secuser\Documents\src\GISD.Test.Automation.Framework\GISD.Automation.Framework.Core\bin\Debug\netcoreapp3.0\GISD.Automation.Framework.Core.dll
 C:\Users\secuser\Documents\src\GISD.Test.Automation.Framework\GISD.Automation.Framework.Core\bin\Debug\netcoreapp3.0\GISD.Automation.Framework.Core.pdb
-C:\Users\secuser\Documents\src\GISD.Test.Automation.Framework\GISD.Automation.Framework.Core\obj\Debug\netcoreapp3.0\GISD.Automation.Framework.Core.csprojAssemblyReference.cache
 C:\Users\secuser\Documents\src\GISD.Test.Automation.Framework\GISD.Automation.Framework.Core\obj\Debug\netcoreapp3.0\GISD.Automation.Framework.Core.AssemblyInfoInputs.cache
 C:\Users\secuser\Documents\src\GISD.Test.Automation.Framework\GISD.Automation.Framework.Core\obj\Debug\netcoreapp3.0\GISD.Automation.Framework.Core.AssemblyInfo.cs
 C:\Users\secuser\Documents\src\GISD.Test.Automation.Framework\GISD.Automation.Framework.Core\obj\Debug\netcoreapp3.0\GISD.Automation.Framework.Core.csproj.CoreCompileInputs.cache

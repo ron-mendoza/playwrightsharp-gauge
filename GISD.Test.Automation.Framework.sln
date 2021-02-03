@@ -7,8 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GISD.Automation.Framework.C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleLauncher", "ConsoleLauncher\ConsoleLauncher.csproj", "{28F10721-8A96-45B7-8F1F-2BB6AEC02956}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "netcore-template", "GISD.Automation.Framework.Gauge\netcore-template.csproj", "{1C086591-7A85-426D-A0B7-CD78EC3EE8D6}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{28F10721-8A96-45B7-8F1F-2BB6AEC02956}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28F10721-8A96-45B7-8F1F-2BB6AEC02956}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28F10721-8A96-45B7-8F1F-2BB6AEC02956}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1C086591-7A85-426D-A0B7-CD78EC3EE8D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1C086591-7A85-426D-A0B7-CD78EC3EE8D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1C086591-7A85-426D-A0B7-CD78EC3EE8D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1C086591-7A85-426D-A0B7-CD78EC3EE8D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
