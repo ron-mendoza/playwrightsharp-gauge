@@ -17,11 +17,11 @@ namespace ConsoleLauncher
             var page = await context.NewPageAsync();
             
             // Log and continue all network requests
-            await page.RouteAsync("**", (route, _) =>
-            {
-                Console.WriteLine(route.Request.Url);
-                route.ContinueAsync();
-            });
+            // await page.RouteAsync("**", (route, _) =>
+            // {
+            //     Console.WriteLine(route.Request.Url);
+            //     route.ContinueAsync();
+            // });
 
             await page.GoToAsync("http://todomvc.com");
         }

@@ -1,4 +1,3 @@
-C:\Users\secuser\Documents\src\GISD.Test.Automation.Framework\ConsoleLauncher\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\package\lib\cli\traceViewer\web\app.bundle.js
 C:\Users\secuser\Documents\src\GISD.Test.Automation.Framework\ConsoleLauncher\bin\Debug\netcoreapp3.1\ConsoleLauncher.exe
 C:\Users\secuser\Documents\src\GISD.Test.Automation.Framework\ConsoleLauncher\bin\Debug\netcoreapp3.1\ConsoleLauncher.deps.json
 C:\Users\secuser\Documents\src\GISD.Test.Automation.Framework\ConsoleLauncher\bin\Debug\netcoreapp3.1\ConsoleLauncher.runtimeconfig.json
@@ -1170,6 +1169,7 @@ C:\Users\secuser\Documents\src\GISD.Test.Automation.Framework\ConsoleLauncher\bi
 C:\Users\secuser\Documents\src\GISD.Test.Automation.Framework\ConsoleLauncher\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\package\lib\cli\traceViewer\traceModel.js
 C:\Users\secuser\Documents\src\GISD.Test.Automation.Framework\ConsoleLauncher\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\package\lib\cli\traceViewer\traceViewer.js
 C:\Users\secuser\Documents\src\GISD.Test.Automation.Framework\ConsoleLauncher\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\package\lib\cli\traceViewer\videoTileGenerator.js
+C:\Users\secuser\Documents\src\GISD.Test.Automation.Framework\ConsoleLauncher\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\package\lib\cli\traceViewer\web\app.bundle.js
 C:\Users\secuser\Documents\src\GISD.Test.Automation.Framework\ConsoleLauncher\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\package\lib\client\accessibility.js
 C:\Users\secuser\Documents\src\GISD.Test.Automation.Framework\ConsoleLauncher\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\package\lib\client\android.js
 C:\Users\secuser\Documents\src\GISD.Test.Automation.Framework\ConsoleLauncher\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\package\lib\client\api.js
