@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dGno6/CVYwrmSnZW5EZtHMrS5iwm1FFAC6/SfkFWlAN1V9DyEu2xR6NwO8UZIACsrVfW1OpQ7LIAW5aZ4BibWg==",
+  "dgSpecHash": "oBlCV4r25Y58GQwvjuUaQTrQl/lKR8s9swCzRxFymrHKjnct1QKhjbbYGo/e6jLvlUmersQDA6I6wPgwn/1Aag==",
   "success": true,
-  "projectFilePath": "c:\\Users\\secuser\\Documents\\src\\GISD.Test.Automation.Framework\\GISD.Automation.Framework.Core\\GISD.Automation.Framework.Core.csproj",
+  "projectFilePath": "C:\\Users\\secuser\\Documents\\src\\GISD.Test.Automation.Framework\\GISD.Automation.Framework.Core\\GISD.Automation.Framework.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\secuser\\.nuget\\packages\\esprima\\1.0.1270\\esprima.1.0.1270.nupkg.sha512",
     "C:\\Users\\secuser\\.nuget\\packages\\macross.json.extensions\\1.5.0\\macross.json.extensions.1.5.0.nupkg.sha512",

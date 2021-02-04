@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\secuser\\Documents\\src\\GISD.Test.Automation.Framework\\GISD.Automation.Framework.Core\\GISD.Automation.Framework.Core.csproj": {}
+    "C:\\Users\\secuser\\Documents\\src\\GISD.Test.Automation.Framework\\GISD.Automation.Framework.Core\\GISD.Automation.Framework.Core.csproj": {}
   },
   "projects": {
-    "c:\\Users\\secuser\\Documents\\src\\GISD.Test.Automation.Framework\\GISD.Automation.Framework.Core\\GISD.Automation.Framework.Core.csproj": {
+    "C:\\Users\\secuser\\Documents\\src\\GISD.Test.Automation.Framework\\GISD.Automation.Framework.Core\\GISD.Automation.Framework.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\secuser\\Documents\\src\\GISD.Test.Automation.Framework\\GISD.Automation.Framework.Core\\GISD.Automation.Framework.Core.csproj",
+        "projectUniqueName": "C:\\Users\\secuser\\Documents\\src\\GISD.Test.Automation.Framework\\GISD.Automation.Framework.Core\\GISD.Automation.Framework.Core.csproj",
         "projectName": "GISD.Automation.Framework.Core",
-        "projectPath": "c:\\Users\\secuser\\Documents\\src\\GISD.Test.Automation.Framework\\GISD.Automation.Framework.Core\\GISD.Automation.Framework.Core.csproj",
+        "projectPath": "C:\\Users\\secuser\\Documents\\src\\GISD.Test.Automation.Framework\\GISD.Automation.Framework.Core\\GISD.Automation.Framework.Core.csproj",
         "packagesPath": "C:\\Users\\secuser\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\secuser\\Documents\\src\\GISD.Test.Automation.Framework\\GISD.Automation.Framework.Core\\obj\\",
+        "outputPath": "C:\\Users\\secuser\\Documents\\src\\GISD.Test.Automation.Framework\\GISD.Automation.Framework.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -64,11 +64,6 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "win-x64": {
-          "#import": []
         }
       }
     }
