@@ -26,6 +26,9 @@ bld/
 msbuild.log
 msbuild.err
 msbuild.wrn
+*.dll
+
+GISD.Automation.Framework.Core/bin/
 
   
 .vs
